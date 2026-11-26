@@ -41,6 +41,7 @@ public class HelloServlet extends HttpServlet {
 		pw.println("サンプル<br>");
 		pw.println("タコピだよ～ン<br>");
 		pw.println("だから～、タコだっちゅ～の！！！<br>");
+		pw.println("2回目、タコだっちゅ～の！！！<br>");
 		pw.println();
 		pw.println("</body></html>");
 	}
